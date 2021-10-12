@@ -33,3 +33,7 @@ Feel free to write the your code and get a pull request to complete your Hacktob
     *Langauge*-*Approach*.*extension*
 
     Eg : golang-functional.go
+         
+         java-oops.java
+         
+         c-procedural.c
